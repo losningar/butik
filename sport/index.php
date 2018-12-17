@@ -43,7 +43,7 @@
                 <td data-target="beskrivning"><?php echo $row['beskrivning']; ?></td>
                 <td data-target="kategori"><?php echo $row['kategori']; ?></td>
                 <td data-target="inklmoms"><?php echo $row['inklmoms']; ?></td>
-               <td data-target="exklmoms"><?php echo $row['exklmoms']; ?></td>
+                <td data-target="exklmoms"><?php echo $row['exklmoms']; ?></td>
                 <td><a href="#" data-role="update" data-id="<?php echo $row['id'] ;?>">Klicka här!</a></td>
               </tr>
          <?php }
@@ -93,8 +93,8 @@
                 
           </div>
           <div class="modal-footer">
-            <a href="#" id="save" class="btn btn-primary pull-right">Update</a>
-            <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
+            <a href="#" id="save" class="btn btn-primary pull-right">Ändra</a>
+            <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Stäng</button>
           </div>
         </div>
 
