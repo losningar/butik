@@ -91,8 +91,8 @@
 
           </div>
           <div class="modal-footer">
-            <a href="#" id="save" class="btn btn-primary pull-right">Update</a>
-            <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Close</button>
+            <a href="#" id="save" class="btn btn-primary pull-right">Ändra</a>
+            <button type="button" class="btn btn-default pull-left" data-dismiss="modal">Stäng</button>
           </div>
         </div>
 
